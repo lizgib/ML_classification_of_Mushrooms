@@ -1,8 +1,8 @@
-from selenium import webdriver
+ from selenium import webdriver
 import urllib
 import urllib.request
 
-outfile = open("image_links.txt", "w") 
+outfile = open("image_links.txt", "w")
 browser = webdriver.Firefox()
 browser.get("http://mushroom.pro/c_galleries/a_1k/pages/Agaricus_augustus.htm")
 img = browser.find_element_by_xpath("/html/body/div/center[2]/a/img")
