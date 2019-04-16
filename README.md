@@ -43,29 +43,15 @@ Project directory for CMSE 202 semester project
 ### Instructions
 ----------------
 
+### Group Contributions 
+----------------
+Michael- CNN code, and code to visualize intermediate layer output
+
 ### Resources
 ---------------
 
-###--Stuff Written by Michael Zimmerman---####
-Suggested possible outline
-Very Much Open to Revision 
+1)G. P. (2018, November 02). Visualizing intermediate activation in Convolutional Neural Networks with Keras. Retrieved from https://towardsdatascience.com/visualizing-intermediate-activation-in-convolutional-neural-networks-with-keras-260b36d60d0
 
-(insert type of images we want to classify here)
+2)Train a simple deep CNN on the CIFAR10 small images dataset. (n.d.). Retrieved from https://keras.io/examples/cifar10_cnn/
 
-SVM
--do SVM
--show precision/recall
--show plot with decision boundary and classes colored in if this is feasible (it might not be).
-
-PCA techinque
--do PCA
--shwo precision/recall
--plot data along first two principal components 
-
-Convolutional Neural Network  
--do CNN
--show precision/recall (will be 100% for certain datasets)
--show weighted filter from two convilution layers( these are similar to the eigen faces we saw)
--show picture of general architecture of network (The one from the link i sent to Slack I beleive 
-
-
+3)https://github.com/gabrielpierobon/cnnshapes/blob/master/README.md
