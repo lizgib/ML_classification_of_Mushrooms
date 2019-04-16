@@ -6,13 +6,13 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 #DIR = '/Volumes/LIZGIB/shrooms/images'
-DIR = '/Users/elizabethgibbons/Desktop/shrooms/ML_classification-of-Mushrooms/test_imgs'
+DIR = '/Users/elizabethgibbons/Desktop/shrooms/ML_classification_of_Mushrooms/Resized_shrooms'
 
 def get_labels():
     '''
     Grab the labels for each species based on premade key
     '''
-    label_file = open('/Users/elizabethgibbons/Desktop/shrooms/ML_classification-of-Mushrooms/consensus_IDS.txt')
+    label_file = open('/Users/elizabethgibbons/Desktop/shrooms/ML_classification_of_Mushrooms/data/consensus_IDS.txt')
     lines = label_file.readlines()
     labels = {}
     for l in lines:
@@ -43,7 +43,6 @@ def load_training_data(labels):
             img = img.convert('L')
             img = img.resize((IMG_SIZE, IMG_SIZE), Image.ANTIALIAS)
             train_data.append([np.array(img), label])
-
     shuffle(train_data)
     return train_data
 

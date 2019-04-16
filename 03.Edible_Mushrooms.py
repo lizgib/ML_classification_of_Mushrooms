@@ -32,10 +32,9 @@ for html in htmls:
                 append = False
 
 
-out = open('edible_bois.txt', 'w')
+out = open('data/edible_bois.txt', 'w')
 
 for shroom in edible_bois:
-
     out.write(shroom)
     out.write('\n')
 

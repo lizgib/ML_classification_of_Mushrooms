@@ -4,7 +4,6 @@ import numpy as np
 import os
 from random import shuffle
 import matplotlib.pyplot as plt
-from image_processing import label_img, load_training_data, get_vectors, get_labels
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix
@@ -13,7 +12,9 @@ from sklearn.svm import SVC
 import pickle
 import time
 #DIR = '/Volumes/LIZGIB/shrooms/images'
-DIR = '/Users/elizabethgibbons/Desktop/shrooms/ML_classification-of-Mushrooms/Resized_shrooms'
+DIR = '/Users/elizabethgibbons/Desktop/shrooms/ML_classification_of_Mushrooms/test_imgs'
+
+from image_processing import label_img, load_training_data, get_vectors, get_labels
 
 feature_vectors, class_labels = get_vectors()
 labels = get_labels()
@@ -27,17 +28,13 @@ w = 64
 n_classes = len(categories)
 
 
-import matplotlib.pylab as plt
-from ipywidgets import interact
-
-
 train_vectors, test_vectors, train_labels, test_labels = train_test_split(feature_vectors, class_labels, random_state=1, test_size=0.25)
 
 print(len(train_vectors))
 print(len(test_vectors))
 
 
-filename = '/Users/elizabethgibbons/Desktop/shrooms/ML-classification-of-grains/SVM_out'
+filename = '/Users/elizabethgibbons/Desktop/shrooms/ML_classification_of_Mushrooms/SVM_out'
 rerun_training = True
 
 # Train a SVM classification model  NOTE This can take ~ 5 minutes or more!!!!
@@ -55,17 +52,17 @@ if rerun_training:
                   'gamma': [0.0001, 0.0005, 0.001, 0.005, 0.01, 0.1], }
     clf = GridSearchCV(SVC(kernel='rbf', class_weight='balanced'), param_grid)
     clf = clf.fit(tmp_vectors, tmp_labels)
-    # print("Best estimator found by grid search:")
-    # print(clf.best_estimator_)
-    #save the model to a file
-    # pickle.dump(clf, open(filename, 'wb'))
+    print("Best estimator found by grid search:")
+    print(clf.best_estimator_)
+    save the model to a file
+    pickle.dump(clf, open(filename, 'wb'))
 
-# else:
-    #read the model from a file
-    # print("reading pickle file.")
-    # clf = pickle.load(open(filename, 'rb'))
-    # print("Best estimator found by grid search:")
-    # print(clf.best_estimator_)
+else:
+    read the model from a file
+    print("reading pickle file.")
+    clf = pickle.load(open(filename, 'rb'))
+    print("Best estimator found by grid search:")
+    print(clf.best_estimator_)
 
 end = time.time()
 print("Runtime",end - start)

@@ -1,477 +1,905 @@
-Agaricus augustus	1
-Agaricus sp	1
-Agaricus crocopeplus	0
-Agaricus perobscurus	0
-Agaricus purpurellus	0
-Agaricus rotalis	0
-Agaricus trisulphuratus	0
-Albatrellus flettii	1
-Albatrellus ovinus	1
-Aleuria aurantia	1
-Aleuria rhenana	0
-Am hemibapha	0
-Am muscaria	1
-Amanita abrupta	1
-Amanita aff	1
-Amanita banningiana	0
-Amanita sp	1
-Amanita flavoconia	1
-Amanita franchetii	1
-Amanita fulva	1
-Amanita hemibapha	1
-Amanita ibotengutake	1
-Amanita jacksonii	1
-Amanita lanei	1
-Amanita magniverrucata	0
-Amanita marmorata	0
-Amanita muscaria	1
-Amanita ocreata	1
-Amanita onusta	0
-Amanita pantherina	1
-Amanita parcivolvata	0
-Amanita phalloides	1
-Amanita rubescens	1
-Amanita rubrovolvata	1
-Amanita virgineoides	1
-Amanita virosa	1
-Anthracophyllum melano	0
-Anthrocophyllum sp	1
-Arcangeliella variegata	0
-Armillaria luteobubalina	1
-Artomyces pyxidatus	1
-Ascocoryne sarcoides	1
-Aseroe rubra	1
-Asterophora parasitica	1
-Astraeus hygrometricus	1
-Astraeus pteridis	1
-Aureoboletus reticuloceps	0
-Aureoboletus thibetanus	0
-Auricularia delicata	1
-Auricularia polytricha	1
-Auriscalpium vulgare	1
-Austroboletus betula	0
-Austroboletus gracilis	0
-Austroboletus niveus	0
-Austroboletus occidentalis	1
-Austropaxillus macnabbii	0
-Badhamia utricularis	1
-Battarrea japonica	0
-Bolbitius vitellinus	1
-Boletellus ananas	0
-Boletellus emodensis	1
-Boletellus obscure	0
-Boletellus russelli	0
-Boletellus sp	1
-Boletinellus rompelii	0
-Boletus aereus	1
-Boletus auripes	0
-Boletus bicolor	1
-Boletus edulis	1
-Boletus frosti	0
-Boletus frostii	0
-Boletus hortonii	1
-Boletus mirabilis	1
-Boletus pulcherrimus	0
-Boletus smithii	0
-Boletus sp	1
-Boletus stromenium	0
-Boletus subvelutipes	1
-Boletus zelleri	0
-Bondarzewia berkeleyi	1
-Bulgaria inquinans	1
-Calostoma cinnabarina	1
-Calostoma insignis	0
-Calvatia bovista	1
-Camillea leprieurii	0
-Campanella aeruginea	1
-Cantha cinnabarinus	0
-Cantharellus cibarius	1
-Cantharellus formosus	1
-Cantharellus persicinus	1
-Cantharellus sp	1
-Cantharellus subalbidus	1
-Caripia montagnei	1
-Ceratiomyxa fruticulosa	1
-Chalciporus rubinellus	0
-Chloro aeruginascens	0
-Chlorociboria aeruginosa	1
-Chlorophyllum brunneum	1
-Chroogomphus rutilus	1
-Chrysomphalina aurantiaca	0
-Clathrus archeri	1
-Clathrus chrysomycelinus	0
-Clathrus columnatus	0
-Clathrus sp	1
-Clathrus pusillus	0
-Clathrus ruber	1
-Clavaria zollingeri	1
-Clavariadel occidentalis	0
-Clavariadelphus truncatus	1
-Clavulinopsis fusiformis	1
-Climacodon roseo	0
-Climacodon roseomaculatus	0
-Climacodon septentrionale	0
-Clitocybe nudum	0
-Clitocybe odora	1
-Clitocybe sp	1
-Clitocybula azurea	0
-Clitopilus prunulus	1
-Coniolepiota sp	0
-Cookeina colensoi	0
-Cookeina sp	1
-Cookeina sulcipes	1
-Cookeina tricholoma	1
-Coprinellus micaceus	1
-Coprinellus sp	1
-Coprinopsis acuminatus	0
-Coprinopsis lagopus	1
-Coprinopsis sp	1
-Coprinus comatus	1
-Cordyceps amazonicus	0
-Cordyceps gunnii	1
-Cordyceps nutans	1
-Cordyceps sinensis	1
-Cordyceps sp	1
-Cort vanduzerensis	0
-Cortinarius archeri	1
-Cortinarius armilatus	1
-Cortinarius armillatus	1
-Cortinarius austrovenetus	1
-Cortinarius bolaris	0
-Cortinarius iodes	0
-Cortinarius magellanicus	1
-Cortinarius sp	1
-Cortinarius traganus	0
-Cortinarius vanduzerensis	0
-Cortinarius violaceus	1
-Craterellus aurora	0
-Craterellus cornu	0
-Craterellus cornucopioides	1
-Craterellus fallax	1
-Craterellus odoratus	1
-Craterellus ordoratus	1
-Crepidotus sp	1
-Cryptoporus volvatus	1
-Cymatoderma elegans	1
-Cyptotrama sp	0
-Cystoderma sp	1
-Cystolepiota sp	0
-Daedaleopsis confragosa	1
-Deflexula sp	1
-Deflexula subsimplex	0
-Dermocybe austroveneta	1
-Dictyophora cinnabarina	0
-Dictyophora duplicata	0
-Dictyophora indusiata	1
-Dictyophora mulitcolor	0
-Dictyophora multicolor	0
-Dictyophora sp	1
-Durianella echinulata	0
-Elaphocordyceps capitata	0
-Elaphocordyceps sp	1
-Entoloma bloxami	0
-Entoloma incanum	0
-Entoloma sp	1
-Entoloma virescens	0
-Exidia recisa	0
-Favolaschia calocera	1
-Favolaschia pustulosa	1
-Favolaschia sp	1
-Filoboletus manipularis	1
-Fistulina aff	1
-Fistulina hepatica	1
-Fistulinella mollis	0
-Flabellophora obovata	0
-Flammulina velutipes	1
-Fomitopsis pinicola	1
-Fomitopsis sp	1
-G juniperi	1
-Galerina autumnalis	1
-Galerina marginata	1
-Galerina patagonica	0
-Gallacea scleroderma	0
-Ganoderma lucidum	1
-Ganoderma sp	1
-Ganoderma tsugae	1
-Geastrum minimum	1
-Geastrum sp	1
-Gerronema retiarium	0
-Gerronema strombodes	0
-Gerronema viridilucens	1
-Glaziella vesiculosa	0
-Gliophorus graminicolor	0
-Gliophorus sp	1
-Golden Chanterelles	1
-Gomphidius subroseus	0
-Gomphus clavatus	1
-Gomphus floccosus	1
-Gomphus kauffmanii	0
-Gomphus sp	1
-Grifola frondosa	1
-Grofola frondosa	1
-Gymnopilus sp	1
-Gymnopus dryophilus	1
-Gyrodon merulioides	0
-Gyromitra caroliniana	0
-Gyromitra esculenta	1
-Gyromitra gigas	1
-Gyromitra infula	1
-Gyroporus castaneus	1
-Hebeloma aminophilum	1
-Helvella sp	1
-Helvella lacunosa	1
-Helvella macropus	0
-Hemitrichia sp	1
-Hericium abietis	1
-Hericium coralloides	1
-Hericium erinaceus	1
-Hericium sp	1
-Hohenbuehelia mastrucata	0
-Hohenbuehelia sp	1
-Hohenbuhelia petaloides	0
-Humaria sp	1
-Hydnellum caeruleum	1
-Hydnellum peckii	1
-Hydnellum sp	1
-Hydno fimbriatus	0
-Hydnodon thelephorus	0
-Hydnodon thelophorus	0
-Hydnopolyporus fimbriatus	0
-Hydnum repandum	1
-Hydnum sp	1
-Hygrocybe coccinea	1
-Hygrocybe conica	1
-Hygrocybe flavescens	1
-Hygrocybe laeta	1
-Hygrocybe psittacina	1
-Hygrocybe sp	1
-Hygrophoropsis aurantiaca	1
-Hygrophorus bakerensis	0
-Hygrophorus chrysodon	1
-Hygrophorus fuligineus	1
-Hygrophorus hypothejus	1
-Hygrophorus leucophaeus	0
-Hygrophorus sp	1
-Hypholoma capnoides	1
-Hypholoma fasciculare	1
-Hypholoma sp	1
-Hypomyces aff	0
-Hypomyces lactifluorum	1
-Hypsizygus tessellatus	0
-Hypsizygus ulmarius	1
-Inonotus obliquus	1
-Inonotus tomentosus	1
-Isaria sp	1
-Laccaria aff	1
-Laccaria amythestina	1
-Laccaria sp	1
-Lachnocladium cf	0
-Lactarius atroviridis	0
-Lactarius fallax	1
-Lactarius indigo	1
-Lactarius sp	1
-Lactarius torminosus	1
-Laetiporus sulphureus	1
-Leccinum atrostipitatum	0
-Leccinum scabrosum	1
-Leccinum sp	1
-Lentinellus cochleatus	1
-Lentinellus montanus	0
-Lentinula edodes	1
-Lentinus crinitus	1
-Lentinus sp	1
-Lentinus velutinus	1
-Lenzites betulina	1
-Lenzites sp	1
-Leotia lubrica	1
-Leotia sp	1
-Leotia viscosa	0
-Lepiota sp	1
-Lepista sordida	1
-Leptonia carnea	0
-Leptonia sp	1
-Leratiomyces ceres	1
-Leuco fragilissimus	0
-Leucocoprinus aff	0
-Leucocoprinus cepaestipes	0
-Leucocoprinus cretaceus	0
-Leucocoprinus fragili	0
-Leucocoprinus luteus	0
-Leucocoprinus sp	1
-Linderia columnata	0
-Lycoperdon americanum	0
-Lycoperdon perlatum	1
-Lycoperdon sp	1
-Lyophyllum fumosum	1
-Lyophyllum shimeji	1
-Lysurus coralocephala	0
-Lysurus mokusin	1
-Lysurus periphragmoides	1
-Macrocybe gigantea	1
-Macrolepiota clelandii	1
-Macrolepiota sp	1
-Macrotyphula fistulosa	0
-Marasmiellus cf	0
-Marasmiellus cubensis	0
-Marasmiellus nigripes	0
-Marasmius elegans	1
-Marasmius haematocephalus	0
-Marasmius plicatilis	0
-Marasmius sp	1
-Marasmius zenkeri	0
-Merulius incarnatus	1
-Merulius tremelloides	0
-Microglossum rufum	0
-Microglossum viride	1
-Montagnea arenaria	1
-Morcella esculenta	1
-Morchella angusticeps	1
-Morchella elata	1
-Morchella esculenta	1
-Morchella semilibera	1
-Morchella sp	1
-Morchella tomentosa	1
-Morchella tulipifera	0
-Mucronella alba	0
-Mucronella calva	0
-Mushroom Mix	1
-Mutinus bambusinus	0
-Mutinus sp	1
-Mycena chlorophos	1
-Mycena deusta	0
-Mycena fera	1
-Mycena haematopus	1
-Mycena interrupta	0
-Mycena leaiana	0
-Mycena nargan	0
-Mycena overholtsii	0
-Mycena purpureofusca	0
-Mycena sp	1
-Mycena tapeina	0
-Mycena viscidocruenta	0
-Nidula sp	1
-Omphalotus illudens	1
-Omphalotus japonicus	1
-Omphalotus nidiformis	1
-Omphalotus subilludens	1
-Oudemansiella canarii	1
-Oudemansiella mucida	1
-Panellus longinquus	0
-Panus conchatus	1
-Paurocotylis pila	1
-Paxillus atrotomentosus	1
-Penicillopsis clava	0
-Perenniporia martiusii	0
-Peziza violacea	0
-Phaeolepiota aurea	1
-Phaeolus schweinitzii	1
-Phallus callichrous	0
-Phallus impudicus	1
-Phallus indusiatus	1
-Phallus merulinus	0
-Phallus ravenelii	0
-Phillipsia domingensis	0
-Phlebopus sp	1
-Phlogiotis helvelloides	0
-Pholiota destruens	0
-Pholiota flammans	0
-Pholiota sp	1
-Pholiota squarrosa	1
-Phylloporus rhodoxanthus	0
-Phyllotopsis nidulans	1
-Pisolithus tinctorius	1
-Pleurocybella porrigens	1
-Pleurotus citrinopileatus	1
-Pleurotus djamor	1
-Pleurotus eryngii	1
-Pleurotus ostreatus	1
-Pleurotus serotinus	1
-Pleurotus sp	1
-Pleurotus tuber	1
-Pluteus atromarginatus	0
-Pluteus sp	1
-Pluteus thomsonii	0
-Podaxis beringamensis	0
-Podoscypha petaloides	0
-Podoserpula pusio	0
-Podostroma cornu	1
-Polyozellus multiplex	1
-Polyporus arcularius	1
-Polyporus curitpes	0
-Polyporus guianensis	0
-Polyporus sp	1
-Polyporus squamosus	1
-Polyporus tenuiculus	1
-Poronia gigantea	0
-Psathyrella delineata	1
-Pseudocolus fusiformis	1
-Pseudocolus schellen	0
-Pseudohydnum gelatinosum	1
-Psilocybe cubensis	1
-Psilocybe cyanescens	1
-Psilocybe sp	1
-Psilocybe squamosa	0
-Pterula subulata	0
-Pulcherricium caeruleum	0
-Pulveroboletus auri	0
-Pycnoporus coccineus	1
-Pynconoporus sp	1
-Ramaria sp	1
-Ramaria moelleriana	0
-Ramariopsis kunzei	0
-Roridomyces sp	0
-Rozites caperata	1
-Russula crustosa	1
-Russula sp	1
-Sarcodon bambusinus	0
-Sarcodon imbricatus	1
-Sarcodon sp	1
-Sarcoscypha coccinea	1
-Schizophyllum commune	1
-Scleroderma citrinum	1
-Scutellinia scutellata	0
-Slime mold	1
-Sparassis sp	1
-Spathularia flavida	1
-Spathularia velutipes	1
-Spinellus sp	1
-Staheliomyces cinctus	0
-Stemonitis axifera	0
-Stemonitis sp	1
-Stipitochaete damicornis	0
-Strobilomyces confusus	1
-Strobilomyces floccopus	1
-Stropharia aeruginosa	1
-Stropharia ambigua	0
-Stropharia coronilla	1
-Suillus cavipes	1
-Suillus grevillei	1
-Suillus lakeii	1
-Suillus ochraceoroseus	0
-Termitomyces microcarpus	1
-Termitomyces striatus	1
-Tetrapyrgos nigripe	1
-Tetrapyrgos nigripes	1
-Thaxterogaster porphyreum	0
-Trametes versicolor	1
-Tremella fuciformis	1
-Tremella mesenterica	1
-Tremella reticulata	0
-Trichaptum abietinum	1
-Trichocoma paradoxa	1
-Tricholoma bakamatsutake	1
-Tricholoma magnivelare	1
-Tricholoma pardinum	1
-Tricholomopsis decora	0
-Tricholomopsis sp	1
-Trogia sp	1
-Tylopilus plumbeoviolaceus	1
-Vanromburghia sp	0
-Verpa bohemica	1
-Volvariella bombycina	1
-Weraroa erythrocephala	0
-Weraroa virescens	0
-Xeromphalina campanella	1
-Xerula furfuracea	0
-Xylaria hypoxylon	1
-Xylaria tentaculata	1
+Cortinarius_magellanicus	1
+Pycnoporus_coccineus	1
+Boletus_stromenium	1
+Leucocoprinus_fragili-b	1
+Amanita_flavoconia	1
+Tricholoma_bakamatsutake	0
+Hydnum_sp	1
+Cookeina_tricholoma-d	1
+Hohenbuhelia_petaloides	1
+Morchella_sp	1
+Morchella_esculenta-k	1
+Clitocybe_nudum	1
+Mycena_chlorophos	1
+Exidia_recisa	1
+Cordyceps_sp-e	1
+Hericium_coralloides	1
+Peziza_violacea	1
+Podoserpula_pusio	1
+Omphalotus_illudens-b	1
+Hydnodon_thelephorus	1
+Helvella_lacunosa-b	1
+Tremella_fuciformis	0
+Leptonia_carnea	1
+Ramariopsis_kunzei-b	1
+Cantharellus_sp-c	1
+Mucronella_calva	1
+Mutinus_bambusinus	1
+WMF	1
+Cantharellus_sp	1
+Clathrus_chrysomycelinus	1
+Pisolithus_tinctorius-c	1
+Flabellophora_obovata	1
+Morchella_elata-g	1
+Morchella_elata-f	1
+Pisolithus_tinctorius-b	1
+Cantharellus_sp-b	1
+Cortinarius_bolaris	1
+Clitocybula_azurea	1
+Cyptotrama_asprata	1
+Gerronema_viridilucens-f	1
+Phallus_indusiatus	0
+Leucocoprinus_cepaestipes	1
+Fomitopsis_sp	1
+Omphalotus_illudens-c	1
+Phallus_ravenelii	1
+Podostroma_cornu-damae	1
+Lachnocladium_cf_denudatum	1
+Deflexula_subsimplex	1
+Cordyceps_sp-d	1
+Hemitrichia_sp	1
+Boletellus_russelli	1
+Hygrocybe_laeta-b	1
+Morchella_esculenta-j	1
+Cookeina_tricholoma-e	1
+Cookeina_colensoi	1
+Hygrocybe_flavescens	1
+Caripia_montagnei	1
+Pseudocolus_schellen	1
+Leotia_sp	1
+Lentinus_sp	1
+Marasmius_sp	1
+Arcangeliella_variegata	1
+Boletellus_obscure-b	1
+Aseroe_rubra-d	1
+Pleurotus_djamor	0
+Cookeina_tricholoma-g	1
+Cortinarius_iodes	0
+Hygrocybe_coccinea	0
+Clavulinopsis_fusiformis	1
+Morchella_esculenta-h	1
+Amanita_muscaria-c	1
+Entoloma_incanum	1
+Cordyceps_sp-f	1
+Cookeina_sp	1
+Amanita_franchetii-c	1
+Polyporus_guianensis	1
+Marasmius_sp-c	1
+Chlorophyllum_brunneum-c	1
+Albatrellus_flettii	1
+Flammulina_velutipes	1
+Stipitochaete_damicornis	1
+Pleurotus_ostreatus-d	1
+Auriscalpium_vulgare-c	1
+Amanita_jacksonii-b	1
+Tremella_fuciformis-d	1
+Boletus_hortonii	1
+Lentinellus_cochleatus	1
+Gliophorus_sp-c	1
+Gerronema_viridilucens-d	1
+Leratiomyces_ceres	1
+Climacodon_roseo-b	1
+Inonotus_obliquus_SS07	1
+Morchella_elata-d	1
+Amanita_sp-b	1
+Lentinula_edodes-b	1
+Lentinula_edodes-c	1
+Amanita_sp-c	1
+Morchella_elata-e	1
+Climacodon_roseo-c	1
+Leucocoprinus_sp	1
+Amanita_sp-t	1
+Gerronema_viridilucens-e	1
+Gomphus_floccosus	1
+Gliophorus_sp-b	1
+Amanita_phalloides-e	1
+Auriscalpium_vulgare-b	1
+Amanita_jacksonii-c	1
+Pleurotus_ostreatus-e	1
+Marasmius_sp-b	1
+Chlorophyllum_brunneum-b	1
+Merulius_tremelloides	1
+Amanita_franchetii-b	1
+Polyporus_arcularius	1
+Cordyceps_sp-g	1
+G_juniperi-virginianae	1
+Amanita_muscaria-b	1
+Coprinellus_micaceus_neg	1
+Morchella_esculenta-i	1
+Morcella_esculenta	1
+Hygrophorus_speciosus-d	1
+Cookeina_tricholoma-f	1
+Xylaria_tentaculata	1
+Boletus_frostii	1
+Hydno_fimbriatus-b	1
+Clathrus_archeri-b	1
+Panus_conchatus-b	1
+Macrocybe_gigantea-c	1
+Auricularia_polytricha	1
+Cookeina_tricholoma-b	1
+Cortinarius_vanduzerensis	1
+Pleurotus_tuber-regium-c	1
+Morchella_esculenta-m	1
+Cortinarius_archeri-b	1
+Cordyceps_sp-c	1
+Mycena_fera	1
+Amanita_muscaria-f	1
+Agaricus_augustus	0
+Marasmius_sp-f	1
+Lyophyllum_fumosum	1
+Lactarius_sp	1
+Sarcodon_sp	1
+Mycena_deusta	1
+Hericium_abietis	0
+Amanita_sp-g	1
+Cortinarius_violaceus	0
+Austroboletus_betula-c	1
+Anthrocophyllum_sp	1
+Gerronema_strombodes	1
+Macrolepiota_sp-b	1
+Scutellinia_scutellata	1
+Austroboletus_betula-b	1
+Phlogiotis_helvelloides	1
+Amanita_sp-f	1
+Pholiota_flammans-b	1
+Mucronella_alba	1
+Hygrophorus_chrysodon	1
+Badhamia_utricularis-b	1
+Pholiota_sp	1
+Marasmius_sp-g	1
+Ramariopsis_kunzei	0
+Lysurus_coralocephala-b	1
+Cordyceps_sp-b	1
+Bondarzewia_berkeleyi-b	1
+Pholiota_flammans	1
+Macrolepiota_clelandii	1
+Morchella_esculenta-l	1
+Clathrus_archeri	1
+Pleurotus_tuber-regium-b	1
+Scleroderma_citrinum	1
+Cookeina_tricholoma-c	1
+Macrocybe_gigantea-b	1
+Polyporus_curitpes	1
+Trogia_sp	1
+Mutinus_sp	1
+Boletus_smithii	1
+Lactarius_atroviridis	1
+Rozites_caperata	1
+Thaxterogaster_porphyreum	1
+Favolaschia_pustulosa-b	1
+Boletus_zelleri-b	1
+Phallus_callichrous-c	1
+Aseroe_rubra-b	1
+Gyromitra_infula-c	1
+Morchella_esculenta-n	1
+Penicillopsis_clava	1
+Hypholoma_sp	1
+Mycena_viscidocruenta-b	1
+Hygrophorus_speciosus-c	1
+Boletus_bicolor	1
+Amanita_muscaria-e	1
+Marasmius_sp-e	1
+Strobilomyces_floccopus	1
+Albatrellus_ovinus	1
+Mycena_deusta-b	1
+Clathrus_crispus	1
+Xeromphalina_campanella-b	1
+Tremella_fuciformis-b	1
+Auriscalpium_vulgare-e	1
+Craterellus_aurora	1
+Amanita_jacksonii-d	1
+Pleurotus_ostreatus-b	1
+Tricholoma_magnivelare	0
+Gerronema_viridilucens-b	1
+Craterellus_odoratus-b	1
+Amanita_phalloides-b	1
+Amanita_sp	1
+Amanita_fulva	0
+Laetiporus_sulphureus-b	1
+Amanita_hemibapha	1
+Morchella_elata-b	1
+Amanita_sp-d	1
+Podaxis_beringamensis	1
+Suillus_grevillei	0
+Boletellus_obscure	1
+Aleuria_aurantia	1
+Gomphus_sp	1
+Hydnellum_sp	1
+Marasmiellus_cubensis	1
+Amanita_sp-e	1
+Morchella_elata-c	1
+Laetiporus_sulphureus-c	1
+Amanita_phalloides-c	1
+Helvella_lacunosa	1
+Pholiota_destruens	1
+Trogia_sp-b	1
+Gerronema_viridilucens-c	1
+Agaricus_trisulphuratus	1
+Dictyophora_mulitcolor	1
+Pleurotus_ostreatus-c	1
+Auriscalpium_vulgare-d	1
+Slime_mold	1
+Tremella_fuciformis-c	1
+Xeromphalina_campanella-c	1
+Mycena_deusta-c	1
+Omphalotus_nidiformis	1
+Marasmius_sp-d	1
+Amanita_muscaria_v_formosa	1
+Coprinus_comatus-b	1
+Cantha_cinnabarinus	1
+Spathularia_velutipes	1
+Amanita_muscaria-d	1
+Chloro_aeruginascens	1
+Roridomyces_sp-b	1
+Hygrophorus_speciosus-b	1
+Lycoperdon_perlatum	0
+Gyromitra_infula-b	1
+Coprinus_comatus	1
+Morchella_esculenta-o	1
+Aseroe_rubra-c	1
+Phallus_callichrous-b	1
+Favolaschia_pustulosa-c	1
+Cordyceps_amazonicus	1
+Humaria_hemisphaerica	1
+Amanita_bisporigera-c	1
+Crepidotus_sp-c	1
+Psilocybe_cubensis-b	1
+Stropharia_aeruginosa-d	1
+Pleurocybella_porrigens-d	1
+Ascocoryne_sarcoides	1
+Hydnum_repandum	0
+Boletus_edulis-e	1
+Aseroe_rubra	1
+Amanita_phalloides	1
+Cortinarius_iodes-b	1
+Dictyophora_indusiata-d	1
+Hypomyces_lactifluorum-c	1
+Cookeina_speciosa	1
+Tricholoma_magnivelare-b	1
+Hygrocybe_sp-d	1
+Weraroa_virescens	1
+Dictyophora_multicolor-b	1
+Ramaria_sp-h	1
+Flammulina_velutipes-c	1
+Inonotus_obliquus	1
+Calostoma_insignis	1
+Boletellus_emodensis-b	1
+Amanita_marmorata	1
+Cordyceps_sinensis	1
+Gyromitra_gigas	1
+Pleurotus_ostreatus	1
+Podoscypha_petaloides	1
+Lentinus_velutinus	1
+Poronia_gigantea	1
+Entoloma_bloxami	1
+Amanita_lanei_white_form	1
+Boletellus_emodensis-c	1
+Gyroporus_castaneus	0
+Flammulina_velutipes-b	1
+Dictyophora_multicolor-c	1
+Hygrocybe_sp-e	1
+Tricholoma_magnivelare-c	1
+Montagnea_arenaria	1
+Tricholoma_pardinum	1
+Hypomyces_lactifluorum-b	1
+Cordyceps_sp	1
+Boletus_frosti-c	1
+Morchella_angusticeps	0
+Cortinarius_iodes-c	1
+Dictyophora_indusiata-e	1
+Gomphus_kauffmanii-c	1
+Xeromphalina_campanella	0
+Verpa_bohemica	0
+Macrolepiota_sp	1
+Tylopilus_plumbeoviolaceus	1
+Ganoderma_sp	1
+Leccinum_sp	1
+Boletus_edulis-d	1
+Polyporus_squamosus	1
+Gomphus_kauffmanii	1
+Dictyophora_multicolor	1
+Artomyces_pyxidatus	0
+Pleurotus_serotinus	1
+Leccinum_scabrosum	1
+Crepidotus_sp-b	1
+Amanita_bisporigera-b	1
+Clathrus_ruber	1
+Am_muscaria_v_formosa-b	1
+Cantharellus_cibarius-h	1
+Elaphocordyceps_capitata	1
+Cantharellus_persicinus	0
+Podaxis_beringamensis-b	1
+Grifola_frondosa-c	1
+Russula_sp-b	1
+Marasmiellus_cubensis-b	1
+Fomitopsis_pinicola	1
+Spathularia_flavida-b	1
+Lepiota_sp-b	1
+Leptonia_sp-d	1
+Psilocybe_cyanescens	1
+Boletus_edulis-f	1
+Filoboletus_manipularis	1
+Cordyceps_nutans-b	1
+Stropharia_ambigua-c	1
+Calostoma_cinnabarina-b	1
+Pholiota_squarrosa	1
+Omphalotus_japonicus	1
+Boletus_frostii-b	1
+Hypsizygus_tessellatus	0
+Hericium_sp-c	1
+Trichaptum_abietinum	1
+Merulius_incarnatus	1
+Pseudohydnum_gelatinosum-e	1
+Durianella_echinulata-b	1
+Cordyceps_gunnii	1
+Termitomyces_striatus	1
+Hygrocybe_sp	1
+Pulcherricium_caeruleum	1
+Gerronema_viridilucens	1
+Lentinula_edodes	1
+Boletus_auripes-b	1
+Cookeina_sulcipes-c	1
+Marasmiellus_cf_helmin	1
+Sarcodon_bambusinus	1
+Psilocybe_cubensis	1
+Vanromburghia_sp	1
+Leccinum_atrostipitatum	1
+Cookeina_sulcipes-b	1
+Ganoderma_tsugae	1
+Inonotus_tomentosus	1
+Durianella_echinulata-c	1
+Hygrocybe_sp-f	1
+Pseudohydnum_gelatinosum-d	1
+Psilocybe_squamosa	1
+Phallus_impudicus	0
+Amanita_muscaria	1
+Amanita_magniverrucata	1
+Hericium_sp-b	1
+Strobilomyces_confusus	1
+Grifola_frondosa	0
+Boletus_mirabilis	1
+Dictyophora_indusiata-f	1
+Hericium_coralloides-d	1
+Hygrocybe_laeta	1
+Auriscalpium_vulgare	1
+Boletus_edulis-g	1
+Tetrapyrgos_nigripes	1
+Coprinopsis_sp-e	1
+Grifola_frondosa-b	1
+Agaricus_rotalis-b	1
+Favolaschia_sp	1
+Hydnellum_caeruleum	1
+Mycena_spinosissima	1
+Leratiomyces_ceres-b	1
+Geastrum_minimum	1
+Pleurocybella_porrigens-b	1
+Panellus_longinquus	1
+Mycena_nargan	1
+Stropharia_aeruginosa-b	1
+Boletus_edulis-c	1
+Leotia_viscosa	1
+Dictyophora_indusiata-b	1
+Mycena_leaiana	1
+Hygrocybe_flavescens-b	1
+Gomphus_floccosus-b	1
+Linderia_columnata	1
+Coprinellus_sp	1
+Cantharellus_cibarius	0
+Dictyophora_multicolor-d	1
+Armillaria_luteobubalina	0
+Hygrocybe_sp-b	1
+Pleurotus_sp	1
+Cantharellus_subalbidus	0
+Mycena_viscidocruenta	1
+Hygrophorus_fuligineus	1
+Stropharia_ambigua_-bZ	1
+Hygrocybe_conica	1
+Lysurus_coralocephala	1
+Pisolithus_tinctorius	1
+Cookeina_sulcipes-f	1
+Boletellus_emodensis-d	1
+Amanita_rubescens	1
+Montagnea_arenaria-c	1
+Cookeina_sulcipes-g	1
+Microglossum_viride	1
+Sparassis_crispa	1
+Dermocybe_austroveneta	1
+Gyromitra_esculenta	0
+Hygrocybe_sp-c	1
+Dictyophora_multicolor-e	1
+Pulveroboletus_auri	1
+Amanita_franchetii	1
+Amanita_onusta	1
+Amanita_banningiana	1
+Dictyophora_indusiata-c	1
+Amanita_jacksonii	1
+Boletus_edulis-b	1
+Tricholomopsis_decora-b	1
+Panus_conchatus	1
+Stropharia_aeruginosa-c	1
+Pleurocybella_porrigens-c	1
+Stropharia_ambigua	1
+Craterellus_odoratus	1
+Paurocotylis_pila	1
+Amanita_virosa	1
+Coprinopsis_sp-b	1
+Grifola_frondosa-e	1
+Lentinellus_montanus	1
+Clathrus_pusillus-b	1
+Hericium_coralloides-c	1
+Marasmius_plicatilis	1
+Aureoboletus_thibetanus	1
+Gymnopilus_spectabilis-b	1
+Suillus_grevillei_-bZ	1
+Leccinum_verispelle	1
+Boletus_frostii-d	1
+Clitopilus_prunulus	1
+Pseudohydnum_gelatinosum-c	1
+Perenniporia_martiusii	1
+Pseudocolus_fusiformis	1
+Cookeina_sulcipes-e	1
+Cookeina_sulcipes-d	1
+Fistulina_aff_hepatica	1
+Coniolepiota_spongodes	1
+Hebeloma_aminophilum	1
+Leucocoprinus_cretaceus	1
+Hydnodon_thelophorus	1
+Favolaschia_calocera	1
+Tetrapyrgos_nigripe-b	1
+Pseudohydnum_gelatinosum-b	1
+Pseudohydnum_gelatinosum	0
+Cordyceps_amazonicus-b	1
+Macrocybe_gigantea	1
+Hericium_sp-d	1
+Boletinellus_rompelii	1
+Entoloma_sp	1
+Hericium_coralloides-b	1
+Chalciporus_rubinellus	1
+Leptonia_sp-c	1
+Marasmius_zenkeri	1
+Podoscypha_petaloides-b	1
+Polyozellus_multiplex	1
+Clathrus_ruber-b	1
+Galerina_autumnalis	1
+Amanita_banningiana-b	1
+Stropharia_coronilla	1
+Grifola_frondosa-d	1
+Agaricus_perobscurus	1
+Coprinopsis_sp-c	1
+Mycena_interrupta-d	1
+Lyophyllum_shimeji	1
+Laccaria_amythestina	1
+Sarcoscypha_coccinea-b	1
+Craterellus_cornu-c	1
+Ganoderma_sp-b	1
+Pleurotus_djamor-c	1
+Helvella_crispa	1
+Hohenbuehelia_sp	1
+Cordyceps_sinensis-c	1
+Aureoboletus_thibetanus-b	1
+Lycoperdon_americanum-b	1
+Clathrus_chrysomycelinus-b	1
+Entoloma_virescens-c	1
+Agaricus_trisulphuratus-c	1
+Ganoderma_lucidum-d	1
+Suillus_ochraceoroseus	0
+Xylaria_hypoxylon-b	1
+Morchella_esculenta	0
+Austropaxillus_macnabbii	1
+Cookeina_sulcipes-i	1
+Cortinarius_violaceus-b	1
+Aleuria_rhenana	1
+Cookeina_sulcipes-h	1
+Trametes_versicolor	1
+Cortinarius_armillatus	1
+Cymatoderma_elegans	1
+Spathularia_flavida	1
+Ganoderma_lucidum-e	1
+Agaricus_purpurellus	1
+Agaricus_trisulphuratus-b	1
+Entoloma_virescens-b	1
+Entoloma_virescens	1
+Leuco_fragilissimus	1
+Aureoboletus_thibetanus-c	1
+Lysurus_mokusin-b	1
+Cordyceps_sinensis-b	1
+Psilocybe_sp	1
+Hygrophorus_bakerensis	0
+Pleurotus_djamor-b	1
+Amanita_ocreata	1
+Climacodon_septentrionale	1
+Craterellus_cornu-b	1
+Sarcoscypha_coccinea-c	1
+Hygrophorus_leucophaeus	1
+Cantharellus_cibarius-c	1
+Amanita_ibotengutake	1
+Lactarius_torminosus-b	1
+Glaziella_vesiculosa	1
+Amanita_virgineoides	1
+Leucocoprinus_luteus	1
+Deviled_eggs	1
+Dictyophora_cinnabarina	1
+Oudemansiella_mucida-c	1
+Pholiota_destruens-bZ	1
+Pluteus_atromarginatus	1
+Cortinarius_magellanicus-b	1
+Coniolepiota_sp-b	1
+Cort_vanduzerensis-b	1
+Helvella_sp-b	1
+Hygrocybe_psittacina-b	1
+Phillipsia_domingensis	1
+Lentinus_crinitus	1
+Xylaria_hypoxylon	1
+Gliophorus_sp	1
+Dictyophora_indusiata	1
+Strobilomyces_confusus-b	1
+Hygrophorus_hypothejus	0
+Galerina_marginata	1
+Ramaria_sp-b	1
+Mycena_purpureofusca	1
+Laccaria_aff_amethystina	1
+Campanella_aeruginea	1
+Morchella_tomentosa-b	1
+Cookeina_tricholoma	1
+Laetiporus_sulphureus	1
+Ramaria_sp-c	1
+Polyporus_squamosus-d	1
+Amanita_parcivolvata-b	1
+Phylloporus_rhodoxanthus	0
+Slime_mold-b	1
+Anthracophyllum_melano	1
+Russula_sp	1
+Psathyrella_delineata	1
+Gyrodon_merulioides-b	1
+Hygrocybe_psittacina-c	1
+Climacodon_roseomaculatus	1
+Polyporus_guianensis-b	1
+Cort_vanduzerensis-c	1
+Cystolepiota_sp-b	1
+Lycoperdon_sp	1
+Geastrum_sp	1
+Auricularia_delicata	1
+Pleurocybella_porrigens	1
+Stemonitis_sp	1
+Astraeus_pteridis	1
+Oudemansiella_mucida-b	1
+Hericium_erinaceus	0
+Cantharellus_subalbidus-b	1
+Omphalotus_subilludens	1
+Mushroom_Mix	1
+Suillus_lakeii	1
+Cantharellus_cibarius-b	1
+Ramaria_araiospora-d	1
+Coprinopsis_sp	1
+Cantharellus_cibarius-f	1
+Mycena_interrupta-b	1
+Dictyophora_cinnabarina-b	1
+Cyptotrama_asprata-c	1
+Craterellus_ordoratus	1
+Phyllotopsis_nidulans	1
+Gerronema_retiarium	1
+Boletus_edulis-j	1
+Agaricus_augustus-b	1
+Cryptoporus_volvatus-b	1
+Cort_vanduzerensis-g	1
+Coniolepiota_spongodes-b	1
+Marasmius_elegans	1
+Weraroa_erythrocephala	1
+Boletellus_emodensis	1
+Lysurus_periphragmoides	1
+Hygrocybe_psittacina	1
+Cantharellus_formosus-b	1
+Mycena_tapeina	1
+Clavariadel_occidentalis	1
+Agaricus_trisulphuratus-e	1
+Ganoderma_lucidum-b	1
+Boletus_edulis	1
+Battarrea_japonica-b	1
+Phaeolus_schweinitzii	1
+Gyrodon_merulioides	1
+Crepidotus_sp	1
+Boletus_aereus	0
+Amanita_bisporigera	1
+Volvariella_bombycina	0
+Morchella_tomentosa	0
+Boletus_zelleri	1
+Isaria_sp	1
+Ramaria_sp-f	1
+Sparassis_crispa-b	1
+Ganoderma_lucidum-c	1
+Agaricus_trisulphuratus-d	1
+Cantharellus_formosus-c	1
+Stemonitis_axifera	1
+Cordyceps_sinensis-d	1
+Phlebopus_sp	1
+Bulgaria_inquinans-b	1
+Cort_vanduzerensis-f	1
+Gomphus_sp-b	1
+Amanita_phalloides_v_alba	1
+Mycena_interrupta-c	1
+Cyptotrama_asprata-b	1
+Cantharellus_cibarius-g	1
+Cantharellus_cibarius-e	1
+Ramaria_araiospora-c	1
+Gallacea_scleroderma	1
+Boletus_edulis-i	1
+Austroboletus_niveus	1
+Spinellus_sp	1
+Cantha_cinnabarinus-j	1
+Astraeus_hygrometricus	0
+Chrysomphalina_aurantiaca	1
+Clathrus_sp	1
+Hydnellum_sp-c	1
+Mycena_chlorophos-b	1
+Cort_vanduzerensis-d	1
+Clavaria_zollingeri-b	1
+Marasmius_haematocephalus	1
+Aleuria_aurantia-c	1
+Pleurotus_citrinopileatus	0
+Coniolepiota_sp	1
+Phillipsia_domingensis-b	1
+Hygrocybe_psittacina-d	1
+Austroboletus_occidentalis	1
+Lepiota_magnispora	1
+Ramaria_sp	1
+Cortinarius_sp	1
+Daedaleopsis_confragosa	1
+Ramaria_sp-d	1
+Polyporus_squamosus-c	1
+Boletus_pulcherrimus	1
+Hypsizygus_ulmarius	1
+Hydnopolyporus_fimbriatus	1
+Hydnum_repandum-b	1
+Polyporus_squamosus-b	1
+Lepiota_sp	1
+Ramaria_sp-e	1
+Nidula_sp	1
+Trichocoma_paradoxa-b	1
+Hygrophorus_speciosus	1
+Hygrocybe_psittacina-e	1
+Aleuria_aurantia-b	1
+Lepista_sordida	0
+Agaricus_rotalis	1
+Cort_vanduzerensis-e	1
+Trichocoma_paradoxa	1
+Staheliomyces_cinctus-b	1
+Asterophora_parasitica	1
+Hydnellum_sp-b	1
+Cantha_cinnabarinus-k	1
+Calostoma_cinnabarina	1
+Boletus_edulis-h	1
+Oudemansiella_mucida-d	1
+Austroboletus_betula	1
+Gyromitra_infula	1
+Ramaria_araiospora-b	1
+Marasmiellus_nigripes	1
+Lactarius_sp-b	1
+Cortinarius_traganus	1
+Cantharellus_cibarius-d	1
+Amanita_pantherina	1
+Schizophyllum_commune-d	1
+Cortinarius_sp-d	1
+Leotia_lubrica	1
+Coprinopsis_acuminatus	1
+Podoserpula_pusio-d	1
+Paxillus_atrotomentosus	1
+Gliophorus_graminicolor	1
+Boletus_sp-b	1
+Clavulinopsis%20fusiformis-b	1
+Sarcoscypha_coccinea	1
+Helvella_macropus	1
+Omphalotus_nidiformis-c	1
+Cordyceps_sp-l	1
+Cystolepiota_sp	1
+Agaricus_crocopeplus-b	1
+Marasmius_sp-i	1
+Mycena_sp	1
+Spathularia_velutipes-b	1
+Tremella_mesenterica	0
+Clavaria_zollingeri	1
+Dictyophora_duplicata	1
+Fistulinella_mollis	1
+Gomphidius_subroseus	1
+Pholiota_squarrosa-d	1
+Suillus_cavipes	0
+Cantharellus_formosus	0
+Termitomyces_microcarpus	1
+Lysurus_mokusin	1
+Coprinopsis_lagopus	1
+Amanita_sp-h	1
+Polyporus_tenuiculus-b	1
+Am_hemibapha_v_similis	1
+Boletus_subvelutipes	1
+Boletellus_ananas	1
+Polyporus_tenuiculus-c	1
+Flabellophora_obovata-b	1
+Amanita_sp-i	1
+Hydnellum_peckii-b	1
+Cryptoporus_volvatus	1
+Astraeus_hygrometricus-b	1
+Polyporus_squamosus_neg	1
+Macrotyphula_fistulosa	1
+Hypomyces_lactifluorum	0
+Amanita_parcivolvata	1
+Lycoperdon_perlatum-b	1
+Marasmius_sp-h	1
+Pluteus_sp	1
+Omphalotus_nidiformis-b	1
+Dictyophora_sp	1
+Lenzites_betulina	1
+Boletus_sp-c	1
+Lactarius_fallax	1
+Craterellus_fallax	1
+Schizophyllum_commune-e	1
+Helvella_macropus-b	1
+Stropharia_aeruginosa	1
+Schizophyllum_commune-g	1
+Mycena_sp-c	1
+Morchella_elata	0
+Phlogiotis_helvelloides-b	1
+Austroboletus_gracilis	1
+Camillea_leprieurii	1
+Amanita_aff_longistriata	1
+Calvatia_bovista	1
+Agaricus_crocopeplus-a	1
+Hericium_abietis-b	1
+Cortinarius_archeri	1
+Clathrus_columnatus	1
+Gyromitra_caroliniana	1
+Marasmius_sp-j	1
+Lactarius_indigo-b	1
+Paxillus_atrotomentosus-c	1
+Hohenbuehelia_mastrucata	1
+Cortinarius_armilatus	1
+Pleurotus_tuber-regium	0
+Mycena_leaiana-d	1
+Microglossum_rufum	1
+Leptonia_sp	1
+Helvella_sp	1
+Amanita_sp-k	1
+Chlorociboria_aeruginosa	1
+Pynconoporus_sp	1
+Cortinarius_austrovenetus	1
+Linderia_columnata-b	1
+Linderia_columnata-c	1
+Tricholomopsis_decora	1
+Schizophyllum_commune	1
+Oudemansiella_canarii	1
+Roridomyces_sp	1
+Chlorociboria_aeruginosa-b	1
+Phallus_callichrous	1
+Battarrea_japonica	1
+Sarcodon_imbricatus	0
+Craterellus_cornucopioides	0
+Paxillus_atrotomentosus-b	1
+Polyporus_tenuiculus	1
+Pluteus_thomsonii	1
+Clavariadelphus_truncatus	0
+Marasmius_sp-k	1
+Hericium_sp	1
+Ramaria_moelleriana	1
+Gymnopus_dryophilus	0
+Hericium_abietis-c	1
+Fistulina_hepatica-d	1
+Gymnopilus_spectabilis	1
+Cystoderma_sp	1
+Phaeolepiota_aurea	1
+Galerina_patagonica	1
+Boletus_auripes	0
+Clitocybe_odora	0
+Boletellus_sp	1
+Mycena_sp-b	1
+Pleurotus_serotinus-b	1
+Mycena_overholtsii	1
+Badhamia_utricularis	1
+Hypomyces_aff_luteovirens	1
+Pterula_subulata	1
+Schizophyllum_commune-f	1
+Podoserpula_pusio-b	1
+Cortinarius_sp-b	1
+Schizophyllum_commune-b	1
+Phallus_impudicus-b	1
+Ramaria_araiospora	0
+Fistulina_hepatica	1
+Agaricus_bisporus	0
+Hygrocybe_coccinea-b	1
+Amanita_virgineoides-b	1
+Leucocoprinus_cretaceus-b	1
+Cordyceps_sp-j	1
+Clathrus_crispus-b	1
+Deflexula_sp	1
+Lenzites_sp	1
+Pleurotus_eryngii	0
+Geastrum_sp-b	1
+Durianella_echinulata	1
+Pholiota_squarrosa-b	1
+Hypholoma_fasciculare	1
+Morchella_tulipifera	1
+Lactarius_indigo	0
+Mycena_interrupta	1
+Mycena_haematopus	1
+Amanita_rubescens-f	1
+Bolbitius_vitellinus	1
+Polyporus_tenuiculus-d	1
+Ganoderma_lucidum	1
+Gomphus_clavatus	1
+Amanita_hemibapha-b	1
+Lactarius_fallax-b	1
+Tricholomopsis_sp	1
+Laccaria_sp	1
+Pholiota_squarrosa-c	1
+Marasmius_sp-n	1
+Staheliomyces_cinctus	1
+Cordyceps_sp-k	1
+Cordyceps_nutans	1
+Lycoperdon_americanum	1
+Amanita_abrupta	1
+Amanita_virgineoides-c	1
+Hygrocybe_coccinea-c	1
+Schizophyllum_commune-c	1
+Favolaschia_pustulosa	1
+Tremella_reticulata	1
+Cortinarius_sp-c	1
+Polyporus_sp	1
+Podoserpula_pusio-c	1
+Ceratiomyxa_fruticulosa	1
+Coprinellus_micaceus	1
+Mycena_sp-e	1
+Phallus_merulinus	1
+Amanita_lanei	1
+Amanita_rubrovolvata	1
+Cookeina_sulcipes	1
+Elaphocordyceps_sp	1
+Cookeina_tricholoma-h	1
+Morchella_esculenta-p	1
+Hydnellum_peckii	1
+Fistulina_hepatica-c	1
+Gomphus_clavatus-b	1
+Asterophora_parasitica-b	1
+Podostroma_cornu-damae-b	1
+Cordyceps_sp-i	1
+Clitocybe_sp	1
+Oudemansiella_mucida	1
+Amanita_rubrovolvata-c	1
+Marasmius_sp-l	1
+Hygrophoropsis_aurantiaca	1
+Chlorophyllum_brunneum	1
+Bondarzewia_berkeleyi	1
+Filoboletus_manipularis-b	1
+Aureoboletus_reticuloceps	1
+Omphalotus_illudens	1
+Fistulina_aff_hepatica-b	1
+Morchella_semilibera	0
+Mycena_leaiana-b	1
+Bulgaria_inquinans	1
+Linderia_columnata-d	1
+Golden_Chanterelles	1
+Amanita_sp-l	1
+GillShotMaster	1
+Mycena_leaiana-c	1
+Leucocoprinus_aff_fragili	1
+Filoboletus_manipularis-c	1
+Chroogomphus_rutilus	0
+Xerula_furfuracea	1
+Russula_crustosa	0
+Clathrus_pusillus	1
+Marasmius_sp-m	1
+Boletus_sp	1
+Hypholoma_capnoides	1
+Amanita_rubrovolvata-b	1
+Cordyceps_sp-h	1
+Fistulina_hepatica-b	1
+Grofola_frondosa	1
+Coprinopsis_lagopus-b	1
+Lactarius_torminosus	1
+Mycena_sp-d	1
