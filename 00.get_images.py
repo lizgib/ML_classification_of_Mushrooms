@@ -1,3 +1,9 @@
+'''
+download all the images from http://mushroom.pro
+
+'''
+
+
 from selenium import webdriver
 import urllib
 import urllib.request

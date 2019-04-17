@@ -1,5 +1,6 @@
 '''
 parsing through the file julian got for us!
+using that file and the ones with IDs Luke and Liz generated from Wikipedia
 '''
 import pandas as pd
 
@@ -9,7 +10,7 @@ poison_bois = open('data/poison_bois.txt', 'r')
 splist = open('data/spp_list.txt', 'r')
 lines = splist.readlines()
 
-consensus = {}
+consensus = {} # using a dictionary so images are only identified once (keys)
 for l in lines:
     spp = l.strip()
     if spp not in consensus.keys():

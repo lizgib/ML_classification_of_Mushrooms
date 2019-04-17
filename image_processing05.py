@@ -1,3 +1,9 @@
+'''
+In order to use all our images in the ML models, we had to load them in
+as arrays first. This script loads images into arrays and packages them with
+their labels similar to the skdata toy dataset format
+'''
+
 from PIL import Image
 import numpy as np
 import os
@@ -6,13 +12,13 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 #DIR = '/Volumes/LIZGIB/shrooms/images'
-DIR = '/Users/elizabethgibbons/Desktop/shrooms/ML_classification_of_Mushrooms/Resized_shrooms'
+DIR = 'ML_classification_of_Mushrooms/Resized_shrooms'
 
 def get_labels():
     '''
     Grab the labels for each species based on premade key
     '''
-    label_file = open('/Users/elizabethgibbons/Desktop/shrooms/ML_classification_of_Mushrooms/data/consensus_IDS.txt')
+    label_file = open('data/consensus_IDS.txt')
     lines = label_file.readlines()
     labels = {}
     for l in lines:
