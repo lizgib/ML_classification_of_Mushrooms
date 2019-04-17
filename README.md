@@ -32,12 +32,6 @@ Here we investigated the question: Can machine learning be used to classify mush
 -------------------------------
 #### Tensor Flow
   - Keras
-  - Sequential
-  - Conv2D
-  - Dense
-  - Flatten
-  - MaxPool2d
-  - Compile
   
 #### Requests
   - get
