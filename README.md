@@ -23,8 +23,9 @@ instances of identifying keywords
 7. `04.mushroom_tox.py`: combine all poision Ids into master dataframe for labels 
 8. `image_processing05.py`: load and format images to be ready for ML models 
 9. `06.SVM_mushrooms.ipynb`: run SVM and plot precision recall 
-10.`CNN-Final.ipynb`: run CNN 
-11. `VisualizeFinalScript.ipynb`: get visuals from CNN
+10. `08.PCA.py`: Runs a PCA model for our mushroom data
+11. `CNN-Final.ipynb`: run CNN 
+12. `VisualizeFinalScript.ipynb`: get visuals from CNN
 
 
 ### List of included libraries
