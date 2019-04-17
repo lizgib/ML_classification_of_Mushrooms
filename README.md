@@ -4,10 +4,6 @@ Project directory for CMSE 202 semester project
 
 ### Introduction
 ----------------
-*** Add intro ***
-(Feel free to edit any of this/delete my notes)
-(Not sure what the tone of of this is supposed to be like, so I sorta added a story-esque first paragraph that provides motivation, if this is not appropriate it can be deleted and i think it still makes sense)
-
   Mushrooms are prized as a food source, and as such are not only cultivated but foraged for in the wild. However, wild mushroom foraging can come with considerable risk, as many mushrooms are toxic and inedible to humans. While extensive lists of mushrooms and their properties exist in various places, this information is scattered and sometimes hard to obtain, however many modern foragers will have access to a smartphone with the ability to take pictures and access the internet. With this in mind we wondered if there is a way to leverage modern computational techniques to ease the burden of mushroom foragers by using images matched to webscraped data about toxicity to classify mushrooms as either poisionous or edible.  
 
 Here we investigated the question: Can machine learning be used to classify mushrooms as being either edible or poisonous based on their images alone?
@@ -61,19 +57,23 @@ instances of identifying keywords
   - svm 
   - metrics 
   - model_selection
+  - PCA
   
 ### Instructions
 ----------------
 -CNN: To use the CNN, simply open and run every cell in the jupyter notebook file 'CNN-Final.ipynb'. The only specific action needed by the user is to specify the directory path to where the folder 'Resized-shrooms' and the text files 'posion_ids_noNA.txt' and 'poision_ids' reside, as they contain the relevant images and labels. Inside the script 'CNN-Final' there are two cells with comments in the upper right corner (cells 2 and 3) which say "User Action Needed". In cell 3 lines 2 and 3 must have the paths called by open() set to the location of 'Resized-shrooms' and 'poision_ids.txt' respectively, and in cell 2 line 3, the path called by open() must be set to wherever 'poision_ids_noNa.txt' is.
 
--PCA
+-PCA: Run the python script in ML_classification_of_Mushrooms folder downloaded from github. As long as `08.PCA.py` has not been moved, no directory path needs to be decalred (due to `os.getcwd()`). The script will pause about halfway through when a .png image is displayed. Once this image has been closed the script will continue to run until the prediction summary is printed as an output. Note: there will be a couple of warning due to package versions and inaccuracy.
 
 -SVM: Load in data using image_processing05.py. Run SVM using sklearn as was done in class Day 18. Plots precision and recall. Output is written to SVM_out pickle file (not pushed)  
 
 ### Group Contributions 
 ----------------
-Michael- CNN code, and code to visualize intermediate layer output
-Lizzie- SVM, image_processing05.py, image downloads and webscraping, poison IDs
+Michael: CNN code, and code to visualize intermediate layer output
+
+Lizzie: SVM, image_processing05.py, image downloads and webscraping, poison IDs
+
+Luke: PCA, webscraping, nonpoison IDs, image reduction
 
 ### Resources
 ---------------
