@@ -1,9 +1,12 @@
+'''
+Get IDs from wikipedia table for poison species
+poison species denoted with a 1
+'''
+
 import wikipedia
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-
-# Poison Species
 
 html = requests.get('https://en.wikipedia.org/wiki/List_of_poisonous_fungus_species')
 b = BeautifulSoup(html.text, 'lxml')
@@ -22,6 +25,8 @@ for l in links:
         out.write('\n')
         poison_bois.add(spp)
 
+
+# looked at another table since there were not many IDs from the first one
 html = requests.get('https://en.wikipedia.org/wiki/List_of_deadly_fungus_species')
 b = BeautifulSoup(html.text, 'lxml')
 links = []
